@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### Welcome to my github!
+
+- 🔭 I’m currently working on ... not much lol
+- 🌱 I’m currently learning React
+- 📫 How to reach me: if you know you know
+- 😄 Pronouns: he / him
 
 <!--
 **notmario/notmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
