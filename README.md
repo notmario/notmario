@@ -1,6 +1,9 @@
-## hello
-i do progamming
+## Hey!
 
-uhh yeah i dont know what to put here
+I... uhh... make things. Yeah. That.
 
-dont like or subscribe
+Mainly use JS and react or something.
+
+I've made a bunch of throwaway projects at https://notmario.net/
+
+Yeah that's about it. Dunno why i'm writing this but oh well.
