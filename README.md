@@ -1,7 +1,7 @@
 ## Hey!
 
-yeah i make things
+what's up. welcome to my github
 
-Mainly use JS and react or something.
+kinda dead rn but oh well
 
-I've made a bunch of throwaway projects at https://notmario.net/
+everything is licensed under the [dwtfywtpl](http://www.wtfpl.net/) unless specified.
